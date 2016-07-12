@@ -1,2 +1,2 @@
-# i.nnovat.io
-My innovation expedition
+# i.nnovat.io FAQ
+FAQ related to innovation
